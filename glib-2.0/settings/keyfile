@@ -1,0 +1,25 @@
+[org/gtk/gtk4/settings/file-chooser]
+sort-directories-first=false
+show-hidden=true
+
+[org/gnome/nautilus/preferences]
+migrated-gtk-settings=true
+default-folder-viewer='icon-view'
+
+[org/gnome/nautilus/window-state]
+maximized=true
+initial-size=(890, 550)
+
+[org/gtk/settings/file-chooser]
+window-position=(78, -11)
+window-size=(1124, 822)
+date-format='regular'
+location-mode='path-bar'
+show-hidden=false
+show-size-column=true
+show-type-column=true
+sidebar-width=156
+sort-column='name'
+sort-directories-first=false
+sort-order='ascending'
+type-format='category'
